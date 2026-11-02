@@ -1,0 +1,2 @@
+# McKulo
+Gemini chatbot project
